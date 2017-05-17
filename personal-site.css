@@ -1,0 +1,49 @@
+body {
+	font-family: helvetica, sans-serif;
+}
+.title_page{
+	background-image: url("");
+}
+.title_page.logo{
+}
+.title_page.navigation{
+	float:right;
+}
+.title_page.mission_statement{
+	font-size: ;
+	margin: ;
+}
+.title_page.nav_arrow{
+	text-align: center;
+}
+.work{
+}
+.work.title{
+	text-align: center;
+	padding: ;
+	border: ;
+}
+.work.navigation{
+	background-color: gray;
+}
+.work 
+.work.logos{
+
+}
+.work.social_media{
+
+}
+.work.print{
+}
+.work.t_shirt{
+}
+.mission{
+}
+.about{
+}
+.contact{
+}
+.contact.links{
+}
+
+
